@@ -1,0 +1,93 @@
+h1 { color: white; }
+h2 { color: white; }
+body{ 
+	background-color:#000000; 
+}
+ul#menu_horizontal li { 
+display : inline;
+padding : 0 0.5em;
+}
+ul#menu_horizontal {
+list-style-type : none;
+}
+#nav 
+{
+   margin:0;
+   padding:0;
+}
+.header{
+    height:200px;
+    text-align:center;
+    line-height:200px;
+    background:#faf2f3;
+}
+ 
+.nav{
+    background:#000000;
+    height:40px;
+    margin-bottom:15px;
+}
+.nav ul li{
+    float:left;
+    list-style:none
+}
+.nav ul li a{
+    line-height:40px;
+    display:block;
+    padding:0 10px;
+}
+ 
+.main{
+    height:560px;
+    background:#f8f9f6;
+}
+h3 { color: white; }
+p {color: white;}
+h4 { color: white; }
+"accueil.php" { text-align: center}
+h2 { text-align: center}
+h3 {text-align:center}
+h4{text-align: center}
+p{text-align:center}
+.logo img{
+	width: 300px;
+	height:267px;
+}
+.mousse{
+	display:inline;
+}
+.logo {
+width:50px;
+height:50px;
+}
+h3{
+font-size: 30px;
+}
+p{
+	font-size:30px;
+}
+#menu li {
+	list-style: none;
+	padding: 0px;	
+	display: inline; 
+	}
+#menu a {
+	float: left;
+	width: 150px;
+	height: 50px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	padding-top: 17px;
+	font-size: 20px;
+}
+#menu a:hover{
+	color: yellow;
+	background: white;
+}
+ 
+
+
+ 
