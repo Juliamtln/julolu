@@ -36,17 +36,22 @@ list-style-type : none;
     display:block;
     padding:0 10px;
 }
- 
+
+.navbar-default .navbar-nav>li>a {
+	background-color: #f8f8f8;
+}
+
 .main{
     height:560px;
     background:#f8f9f6;
 }
-h3 { color: white; }
+h3 { color: white;
+	font-weight: 300;
+}
 p {color: white;}
 h4 { color: white; }
-"accueil.php" { text-align: center}
 h2 { text-align: center}
-h3 {text-align:center}
+h3 {text-align:center;}
 h4{text-align: center}
 p{text-align:center}
 .logo img{
